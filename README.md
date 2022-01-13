@@ -7,7 +7,7 @@ The user is tapping on the keyboard or clicking on a particular button on your W
 you can impress all of your friends with.
 <!DOCTYPE html>
 <html>
-<body> <img src=https://media.geeksforgeeks.org/wp-content/uploads/20210102194745/1st.png></body>
+<body> <img src=https://github.com/SoumyashriSingha/Drum-Kit-website/blob/main/2022-01-13.png></body>
 <footer>
   Soumyashri Singha
 </footer>
